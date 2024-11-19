@@ -1,0 +1,16 @@
+body {
+    font-family: Times New Roman, serif;
+    margin: 0;
+}
+
+h1, h2 {
+    color: black;
+}
+
+ul {
+    display: none;
+}
+
+p {
+    font-size: 14px;
+}
